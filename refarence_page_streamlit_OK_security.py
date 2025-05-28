@@ -5,7 +5,6 @@
 # [Azure] OpenAI Service で AI チャットボットを作ってみよう
 # https://zenn.dev/microsoft/articles/85b0b92a438084
  
-import openai
 from openai import AzureOpenAI
 import os  
 import streamlit as st
