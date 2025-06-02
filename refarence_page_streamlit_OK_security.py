@@ -52,7 +52,7 @@ def add_history(response):
 
 
 # Streamlit アプリケーションの UI を構築
-st.title("CWBJ創る人コース Step8 課題 Chat")
+st.title("Azureリソース使ったChat")
 
 # チャット履歴の表示 
 for chat in st.session_state.chat_history:
